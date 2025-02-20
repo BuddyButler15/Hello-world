@@ -1,17 +1,15 @@
 
 
 
-# Hello World Sample
+# Hello World
 
-This is a sample of a good `README.md` file that can be used when describing a project.  
-You can change the headings to fit your needs, but the idea is to provide:  
+
 
 - **A summary of the project**  
-- **The files used**  
+- **The file used**  
 - **Programs written**  
 - **How to execute the program**  
 
-Think of this as **documentation**.
 
 ---
 
@@ -28,15 +26,13 @@ Think of this as **documentation**.
 
 ## Project Title
 
-*Hello World Sample*
+*Hello World *
 
 ---
 
 ## Description
 
-Practice using **GitHub** by creating a sample repository.  
-Make sure you add a **clear description** to help others understand your project.
-
+** Located in this code is my Rhetoric Speech I crafted Freshman Year of College 
 ---
 
 ## How to Run Program
