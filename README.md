@@ -35,13 +35,3 @@
 ** Located in this code is my Rhetoric Speech I crafted Freshman Year of College 
 ---
 
-## How to Run Program
-
-Explain here how you would run the program and what files need to be available.
-
-```plaintext
-Hello_World/
-│── README.md
-│── program1.R
-│── dataset.csv
-│── index.html
