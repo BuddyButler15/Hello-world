@@ -32,6 +32,6 @@
 
 ## Description
 
-** Located in this code is my Rhetoric Speech I crafted Freshman Year of College 
+** Attached to this repository is my Rhetoric Speech I crafted Freshman Year of College 
 ---
 
